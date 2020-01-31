@@ -1,4 +1,2 @@
 this is a simple text file..
 modified again
-BGCFHFHGM,L
-HGB,KLGCH
